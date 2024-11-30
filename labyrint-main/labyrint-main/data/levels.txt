@@ -1,2 +1,0 @@
-start:map1.txt
-aSharpPlace:sharp.txt
